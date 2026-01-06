@@ -44,13 +44,11 @@ BudgetWise is a comprehensive, intelligent financial management platform designe
 ## 🎥 Demo Video
 
 > [!IMPORTANT]
-> **Watch the full platform walkthrough below:**
+> **Watch the full platform walkthrough on Google Drive:**
 > 
-> ![BudgetWise Demo](docs/video/budgetwise.mp4)
+> 🔗 **Public Link:** [Watch Demo on Google Drive](LINK_HERE)
 > 
-> *A short demo video showcasing the platform's core functionality, including transaction logging, budget setting, and AI insights.*
-> 
-> 🔗 **Alternative Link:** [Watch on Google Drive](LINK_HERE)
+> *The demo video showcases the platform's core functionality, including transaction logging, budget setting, and AI insights.*
 
 ---
 
@@ -63,8 +61,6 @@ BudgetWise is a comprehensive, intelligent financial management platform designe
 - **Global Multi-Currency Support**: Transact in USD, EUR, or GBP with automatic conversion to INR for seamless tracking.
 - **Visual Analytics**: Gain deep insights into your financial health through interactive charts and visualizations.
 - **Data Portability**: Maintain full ownership of your data with easy export functionality to CSV format.
-
----
 
 ## 🛠 Tech Stack
 
@@ -133,8 +129,3 @@ BudgetWise is a comprehensive, intelligent financial management platform designe
 - **Program**: Infosys Springboard 6.0 Virtual Internship – JAVA Technology Stack
 - **Mentor**: Maria Jerina Mam ([springboardmentor569@gmail.com](mailto:springboardmentor569@gmail.com))
 - **Special Thanks**: To the Infosys Springboard team for their guidance and the resources provided throughout the program.
-
----
-
-> [!NOTE]
-> *A short demo video with voice explaining the functionality will be added shortly.*
