@@ -46,7 +46,7 @@ BudgetWise is a comprehensive, intelligent financial management platform designe
 > [!IMPORTANT]
 > **Watch the full platform walkthrough on Google Drive:**
 > 
-> 🔗 **Public Link:** [Watch Demo on Google Drive](LINK_HERE)
+> 🔗 **Public Link:** [Watch Demo on Google Drive](https://drive.google.com/file/d/1rLsCUkM1IRon998fwx9Ovd7q0Xli8uyy/view?usp=drive_link)
 > 
 > *The demo video showcases the platform's core functionality, including transaction logging, budget setting, and AI insights.*
 
