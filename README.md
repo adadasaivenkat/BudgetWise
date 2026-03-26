@@ -129,3 +129,21 @@ BudgetWise is a comprehensive, intelligent financial management platform designe
 - **Program**: Infosys Springboard 6.0 Virtual Internship – JAVA Technology Stack
 - **Mentor**: Maria Jerina Mam ([springboardmentor569@gmail.com](mailto:springboardmentor569@gmail.com))
 - **Special Thanks**: To the Infosys Springboard team for their guidance and the resources provided throughout the program.
+
+---
+
+## 🎓 Internship Completion
+
+🎉 Successfully completed **Infosys Springboard 6.0 Virtual Internship – JAVA Technology Stack**
+
+### 🏆 Certificate of Completion
+
+📄 [View Certificate (Repository)](docs/Infosys%20Springboard%20Internship%206.0%20(B%208,9%20&%2010)%20BudgetWise_%20AI-Driven%20Expense%20Tracker%20and%20Budget%20Advisor.pdf)
+
+🔗 [View Certificate (Google Drive)](https://drive.google.com/file/d/1hBF8y_yzsCV4CVtFaVjsAWGVmdFz6U55/view?usp=sharing)
+
+---
+
+### 📊 Project Presentation
+
+🚀 [View Presentation (Gamma)](https://gamma.app/docs/BudgetWise-AI-Driven-Expense-Tracker-and-Budget-Advisor-dbsuptyc2nw6koq)
